@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "定时闹钟", "定时闹钟\定时闹钟.csproj", "{E1E5DEBC-BA11-476C-A45F-391ED1C71E05}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{8A94EA35-FD46-4F0A-AE00-DC689387A5B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1E5DEBC-BA11-476C-A45F-391ED1C71E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E5DEBC-BA11-476C-A45F-391ED1C71E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E5DEBC-BA11-476C-A45F-391ED1C71E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E5DEBC-BA11-476C-A45F-391ED1C71E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A94EA35-FD46-4F0A-AE00-DC689387A5B3}.Debug|Any CPU.ActiveCfg = Debug
+		{8A94EA35-FD46-4F0A-AE00-DC689387A5B3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {920334D3-0351-46F2-A2A5-1D85CB250CA8}
+	EndGlobalSection
+EndGlobal
